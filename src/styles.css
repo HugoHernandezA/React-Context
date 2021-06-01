@@ -1,0 +1,47 @@
+.user {
+    margin: 10px;
+    padding: 10px;
+    border: 10px solid #bbb;
+    background-color: #eee;
+}
+
+.user span {
+    font-size: 1.2em;
+    text-decoration: none;
+    color: #333;
+}
+
+.btn {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+  .btn1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid rgb(75, 55, 161);
+  }
+  
+  .btn1:hover {
+    background-color: rgb(100, 81, 184);
+    color: white;
+  }
+
+.btn2 {
+background-color: white; 
+color: black; 
+border: 2px solid rgb(161, 55, 120);
+}
+
+.btn2:hover {
+background-color: rgb(184, 81, 176);
+color: white;
+}
